@@ -163,8 +163,8 @@ html {
 
 body {
   background-image:
-    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url('../images/project-25.jpeg');
+    linear-gradient(rgba(0, 0, 0, 0.137), rgba(0, 0, 0, 0.7)),
+    url('../images/background.jpeg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
