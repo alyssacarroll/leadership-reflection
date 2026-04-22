@@ -600,6 +600,7 @@ main {
 
 .service-icon-box img {
   margin: auto;
+  filter: invert(1);
 }
 
 .service-content-box {
