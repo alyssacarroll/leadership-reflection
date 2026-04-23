@@ -1,44 +1,11 @@
-# vCard - Personal portfolio
+# PLP Senior Reflection — Alyssa Carroll
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A personal reflection website created as my senior capstone project for Christopher Newport University's President's Leadership Program (PLP).
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About
 
-## Demo
+This site reflects on two international experiences that shaped my development as a leader: studying abroad through LDSP 320: Cross-Cultural Leadership in the Netherlands, France, Luxembourg, Belgium, and Switzerland, and a service trip to Ireland with PLP. It covers my growth in the Student Leadership Competencies of Other Perspectives and Service, and connects those experiences to Transformational Leadership and Servant Leadership theory.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Built With
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+Adapted from [codewithsadee's vCard personal portfolio template](https://github.com/codewithsadee/vcard-personal-portfolio).
